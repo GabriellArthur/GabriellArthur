@@ -28,9 +28,3 @@
   <a href = "mailto:dev.gabrielfiusa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriellarthur/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
- # Sites
-- [Portfolio](https://gabrielarthurr.netlify.app)<a href="https://github.com/GabriellArthur/PortfolioEnd-ReactJs" target="_blank"><img  height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
-- [LetMe Ask](https://let-me-ask-react-js-gabriellarthur.vercel.app)<a href="https://github.com/GabriellArthur/LetMeAsk-ReactJs" target="_blank"><img  height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
-- [IgNews](https://ig-news-gabriellarthur.vercel.app)<a href="https://github.com/GabriellArthur/PortfolioEnd-ReactJs" target="_blank"><img  height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
-
