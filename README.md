@@ -1,7 +1,6 @@
-## Oiii eu sou a Gabriel Arthur, desenvolvedor Front-End e Mobile!
+## Oiii eu sou a Gabriel Arthur, desenvolvedor Full-Stack!
 <div align="center">
   <a href="https://github.com/GabriellArthur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellArthur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellArthur&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
