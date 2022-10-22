@@ -1,10 +1,10 @@
 Hi 👋 My name is Gabriel Fiusa
 ==============================
 
-Developer Full-Stack
+Developer Full-Stack (Flutter Specialist)
 --------------------
 
-Focused on full-stack development. I consider myself agile and consistent in learning a new language and I adapt to any change, ready to overcome any challenge.
+Focused on front-end/mobile development. I consider myself agile and consistent in learning a new language and I adapt to any change, ready to overcome any challenge.
 
 * 🌍  I'm based in Brasília - Brasil
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-gabriellarthur.vercel.app)
