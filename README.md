@@ -16,7 +16,7 @@ Focused on front-end/mobile development. I consider myself agile and consistent 
 src="https://img.shields.io/github/followers/GabriellArthur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Specialist
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 ### Main Skills
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
