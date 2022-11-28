@@ -1,7 +1,7 @@
 Hi 👋 My name is Gabriel Fiusa
 ==============================
 
-Developer Full-Stack (Flutter Specialist)
+Developer Full-Stack (Flutter Specialist and STACK MERN)
 --------------------
 
 Focused on front-end/mobile development. I consider myself agile and consistent in learning a new language and I adapt to any change, ready to overcome any challenge.
@@ -15,9 +15,10 @@ Focused on front-end/mobile development. I consider myself agile and consistent 
 <a href="https://www.github.com/GabriellArthur" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GabriellArthur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Specialist
+### Specialist (more years in code)
 <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-### Main Skills
+
+### Main STACK
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
