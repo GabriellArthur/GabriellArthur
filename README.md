@@ -9,7 +9,6 @@ Focused on front-end/mobile development. I consider myself agile and consistent 
 * 🌍  I'm based in Brasília - Brasil
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-gabriellarthur.vercel.app)
 * ✉️  You can contact me at [dev.gabrielfiusa@gmail.com](mailto:dev.gabrielfiusa@gmail.com)
-* 🧠  I'm learning NodeJS
 * 🤝  I'm open to collaborating on Front-End, Mobile and Back-End
 
 <a href="https://www.github.com/GabriellArthur" target="_blank" rel="noreferrer"><img
