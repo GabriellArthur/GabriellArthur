@@ -11,6 +11,8 @@ Focused on front-end/mobile development. I consider myself agile and consistent 
 * ✉️  You can contact me at [dev.gabrielfiusa@gmail.com](mailto:dev.gabrielfiusa@gmail.com)
 * 🤝  I'm open to collaborating on Front-End, Mobile and Back-End
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellArthur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 <a href="https://www.github.com/GabriellArthur" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GabriellArthur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
