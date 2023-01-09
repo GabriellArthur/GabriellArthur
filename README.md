@@ -13,6 +13,10 @@ Focused on front-end/mobile development. I consider myself agile and consistent 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellArthur&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
+GitLab: 411 contributions até o dia 08/01/23
+
+![image](https://user-images.githubusercontent.com/71986202/211226801-84872e81-e52f-4958-ae1c-0523f8eafe7c.png)
+
 <a href="https://www.github.com/GabriellArthur" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GabriellArthur?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
