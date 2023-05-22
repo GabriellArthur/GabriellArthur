@@ -43,4 +43,4 @@ src="https://img.shields.io/github/followers/GabriellArthur?logo=github&style=fo
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GabriellArthur)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GabriellArthur&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
